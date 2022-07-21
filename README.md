@@ -31,5 +31,10 @@ Python URL Data  Scrapper from a give file or urls in CSV file
 ## Scraped Data
 - Check URLSDATA.json file
 
+## Output
+Screenshot of terminal output -
 
-Please Note this program will not work in the latest stable version of chrome which is 103 due to some bugs in that version as of now, I used chrome's older version  102.0.5005.63. However we can use chrome's beta version to run this program. 
+![](image/output.png)
+
+
+Note : Please Note this program will not work in the latest stable version of chrome which is 103 due to some bugs in that version as of now, I used chrome's older version  102.0.5005.63. However we can use chrome's beta version to run this program. 
