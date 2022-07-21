@@ -28,6 +28,8 @@ Python URL Data  Scrapper from a give file or urls in CSV file
  
 4. Printing Time taken 
 - Time Taken is printed after every 100 urls scraped by the program.
+- On an average time taken for every 100 urls is 30 seconds.
+
 ## Scraped Data
 - Check URLSDATA.json file
 
